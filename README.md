@@ -21,5 +21,7 @@ This is the [collection](postman/Heroes.postman_collection.json) that I use to t
 ## Useful information
 
 /application In this folder I included all my application files.
-  /apihero Here you will find all the configuration regarding my hero API. Models, Serializers, Views, 
-  /project Her you will find all the configuration of my Django project. Settings, URLs configuration, 
+
+  /apihero Here you will find all the configuration regarding my hero API. Models, Serializers, Views, ...
+  
+  /project Her you will find all the configuration of my Django project. Settings, URLs configuration, ...
